@@ -4,8 +4,8 @@
 1. Hello
 2. Kia ora
 
-* **dog**
-* *cat*
+* **Dogs are man's best friend !!**
+* *Cat is so cute!!*
 
 ### Stunning picture website
 
